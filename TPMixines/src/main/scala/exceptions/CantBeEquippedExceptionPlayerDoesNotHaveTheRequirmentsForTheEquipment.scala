@@ -1,0 +1,5 @@
+package exceptions
+
+class CantBeEquippedExceptionPlayerDoesNotHaveTheRequirmentsForTheEquipment extends CantBeEquippedException {
+
+}

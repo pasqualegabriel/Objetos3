@@ -1,0 +1,17 @@
+
+//Refactoriar:
+
+
+       -Un solo objeto atribute, que el enum tenga comportamiento. (17/04)
+
+       -Testear el get de precio tanto en la venta y cuando se agrega una runa
+
+       -Acomodar en paquetes
+
+       -Comentarios de test
+
+        -CAMILA TRADUCE STACK TEST
+        -GABI MAGICTEST
+
+
+
